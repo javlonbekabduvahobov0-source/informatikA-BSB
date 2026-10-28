@@ -1,0 +1,6 @@
+{
+  "name": "Maktab BSB va CHSB Onlayn Nazorat Tizimi",
+  "description": "Maktab o'qituvchilari va o'quvchilari uchun BSB va CHSB testlarini rasm yoki PDFdan AI yordamida yaratish, onlayn sinov o'tkazish, avtomatik baholash va natijalarni Excel jadvalida eksport qilish tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
